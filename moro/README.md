@@ -1,3 +1,44 @@
+# Moro - Plan Your Tomorrow
+
+A simple React app that shows your tomorrow's events with smart weather and transport notifications.
+
+## Features
+
+- 📅 **Events List**: View tomorrow's events with time and location
+- 🌤️ **Weather Alerts**: Get notified about weather for outdoor events
+- 🚗 **Transport Reminders**: Know when to leave for your meetings
+- 🎨 **Clean UI**: Modern design with smooth animations
+
+## Quick Start
+
+1. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+2. **Run the app**
+
+   ```bash
+   npm start
+   ```
+
+3. **Open browser** at `http://localhost:3000`
+
+## What You'll See
+
+- **Events List**: Shows your tomorrow's events (currently hardcoded)
+- **Weather Notification**: Appears after 2 seconds with weather info
+- **Transport Notification**: Appears after 4 seconds with departure time
+
+## Tech Stack
+
+- React 19
+- Tailwind CSS
+- OpenMeteo API (ready to integrate)
+
+## Project Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
